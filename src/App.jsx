@@ -123,7 +123,7 @@ function App() {
         )}
       </div>
       <footer className="text-center mt-8 text-slate-500 text-sm">
-        <p>Made with ❤️ | Powered by FFmpeg & React</p>
+        <p>Made with ❤️ by <a className="no-underline" href="https://github.com/Tushar-Sahu7/Giffy-Converter/">Tushar Sahu</a> | Powered by FFmpeg & React</p>
       </footer>
     </div>
   );
